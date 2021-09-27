@@ -2,7 +2,7 @@ x=["karthik","keerthi","gokul"]
 y=x[1:2]
 print(y)  # its prints index 1 to 2 from list x
 x.append("raja")
-print(x)
+print(x)   # append a new value in list x
 x.pop(3)
 print(x)
 z=len(x)
